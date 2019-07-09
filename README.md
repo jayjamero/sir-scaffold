@@ -4,7 +4,7 @@ An npm module to make featured based react components
 Install with
 
 ```
-npm install -g sir-scaffold
+npm link
 ```
 
 then navigate to the parent directory of where you want the react component to go (ie: /src/Components)
